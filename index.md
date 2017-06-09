@@ -2,6 +2,5 @@
 let's have a look at this.
 
 ## [Doggo](http://www.google.com)
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+![Doggo pic alt text](/images/doggo.png)
 what a good boy.
