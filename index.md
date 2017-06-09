@@ -1,18 +1,22 @@
 # hello doggo world
 let's have a look at this.
 
-## [Doggo](http://www.google.com)
+## [Doggo1](http://www.google.com)
+09 June 2017
 ![Doggo pic alt text](/images/doggo.jpg)
 what a good boy.
 
-## [Doggo](http://www.google.com)
+## [Doggo2](http://www.google.com)
+09 June 2017
 ![Doggo pic alt text](/images/doggo.jpg)
 what a good boy.
 
-## [Doggo](http://www.google.com)
+## [Doggo3](http://www.google.com)
+09 June 2017
 ![Doggo pic alt text](/images/doggo.jpg)
 what a good boy.
 
-## [Doggo](http://www.google.com)
+## [Doggo4](http://www.google.com)
+09 June 2017
 ![Doggo pic alt text](/images/doggo.jpg)
 what a good boy.
