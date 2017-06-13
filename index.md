@@ -1,7 +1,7 @@
 # hello doggo world
 let's have a look at this.
 
-##[Doggo0](http://www.google.com)
+## [Doggo0](http://www.google.com)
 ![doggo pic alt text](https://scontent.cdninstagram.com/t51.2885-15/s150x150/e35/19051504_429462270760199_5605852071346569216_n.jpg)
 ***
 
