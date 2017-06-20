@@ -79,8 +79,18 @@ $t_arr = array(
 if ($ig_ts != $unix_ts) {
     echo "---times do not match, starting to write" . $b;
     //name from caption
-    $caption = explode(" ", $ig_0["caption"]["text"]);
-    $name = $caption[0];
+    //$caption = explode(" ", $ig_0["caption"]["text"]);
+    //$name = $caption[0];
+    $caption = $ig_0["caption"]["text"];
+    $name = '';
+    //regex match up until !, assumes the caption will start with Name! format.
+    preg_match('/.+?(?=!)/', $caption, $match);
+    if (count($match) > 0) {
+        $name = $match[0] . "!";
+    }
+    else {
+        $name = "Doggo!";
+    }
     echo $name . $b;
 
     // location from tag
