@@ -55,7 +55,7 @@ $ig_0 = $data[0]; //first obj in data
 
 $ig_ts = (int) $ig_0["created_time"];
 
-echo $b . $ig_ts . $b;
+echo $ig_ts . $b;
 
 //make sure file and path is correct, this is a test file
 $file = 'index.md';
@@ -94,7 +94,7 @@ if ($ig_ts != $unix_ts) {
     echo $site . $b;
 
     //ig image link
-    $ig_img = $ig_0["images"]["thumbnail"]["url"];
+    $ig_img = $ig_0["images"]["low_resolution"]["url"];
 
     //md prepend vars
     $write = array_fill_keys(array("ts", "title", "desc", "image"), "");
