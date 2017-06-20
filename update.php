@@ -100,8 +100,8 @@ if ($ig_ts != $unix_ts) {
     $write = array_fill_keys(array("ts", "title", "desc", "image"), "");
     $write["ts"] = "<!--- " . $ig_ts . " --->";
     $write["title"] = "## " . $name;
-    $write["desc"] = "[Adopt at " . $loc . " Humane Society](" . $site . ")";
-    $write["image"] = "![Picture of " . $name . "](" . $ig_img . ")";
+    $write["desc"] = "[Adopt at " . $loc . " Humane Society](" . $site . ")" . $b;
+    $write["image"] = "![Picture of " . $name . "](" . $ig_img . ")" . $b;
     $write_str = implode($b, $write);
 
     prependStr($write_str, $file);
