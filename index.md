@@ -7,4 +7,4 @@
 ## Bud!
 [Adopt at Longmont Humane Society](https://www.longmonthumane.org/?q=animals)
 
-![Picture of Bud!](https://scontent.cdninstagram.com/t51.2885-15/s150x150/e35/19051539_1695266877449465_5195314972363587584_n.jpg)
+![Picture of Bud!](https://scontent.cdninstagram.com/t51.2885-15/s320x320/e35/19051539_1695266877449465_5195314972363587584_n.jpg)
