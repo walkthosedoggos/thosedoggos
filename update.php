@@ -7,11 +7,6 @@ require "config.php";
 require "get.php";
 require "gh.php";
 
-$json = getIgData($token);
-
-// print_r($data);
-// exit();
-
 function getWebsite($str) {
     $res = $str;
     switch ($res) {
@@ -51,22 +46,19 @@ function prependStr($string, $orig_filename) {
 
 //write the curl operations to get the result (sample below)
 $b = "\r\n";
-echo "---hello" . $b;
-// $result = '{"pagination": {}, "data": [{"id": "1536621939416693670_5530629355", "user": {"id": "5530629355", "full_name": "walkthosedoggos", "profile_picture": "https://scontent.cdninstagram.com/t51.2885-19/s150x150/18947452_795972017230920_8438306814633705472_n.jpg", "username": "walkthosedoggos"}, "images": {"thumbnail": {"width": 150, "height": 150, "url": "https://scontent.cdninstagram.com/t51.2885-15/s150x150/e35/19051539_1695266877449465_5195314972363587584_n.jpg"}, "low_resolution": {"width": 320, "height": 320, "url": "https://scontent.cdninstagram.com/t51.2885-15/s320x320/e35/19051539_1695266877449465_5195314972363587584_n.jpg"}, "standard_resolution": {"width": 640, "height": 640, "url": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/19051539_1695266877449465_5195314972363587584_n.jpg"}}, "created_time": "1497399631", "caption": {"id": "17861486260131016", "text": "Bud! Not sure what is spooking Bud, giving him a concern. He\u2019s a trooper, keeping calm and marking on. Adopt at Longmont Humane Society, shortlink in profile.\n\n#adoptdontshop #rescueisthenewblack #doggos #walkthosedoggos #dogsofinstagram #pibbles #shelterdoggos #oneluckypup #adoptme #shelterdogsrock #longmonthumanesociety #tuesdayface", "created_time": "1497399631", "from": {"id": "5530629355", "full_name": "walkthosedoggos", "profile_picture": "https://scontent.cdninstagram.com/t51.2885-19/s150x150/18947452_795972017230920_8438306814633705472_n.jpg", "username": "walkthosedoggos"}}, "user_has_liked": false, "likes": {"count": 11}, "tags": ["shelterdogsrock", "shelterdoggos", "dogsofinstagram", "adoptdontshop", "rescueisthenewblack", "tuesdayface", "longmonthumanesociety", "oneluckypup", "walkthosedoggos", "doggos", "adoptme", "pibbles"], "filter": "Normal", "comments": {"count": 1}, "type": "carousel", "link": "https://www.instagram.com/p/BVTLYM1APum/", "location": null, "attribution": null, "users_in_photo": [], "carousel_media": [{"images": {"thumbnail": {"width": 150, "height": 150, "url": "https://scontent.cdninstagram.com/t51.2885-15/s150x150/e35/19051539_1695266877449465_5195314972363587584_n.jpg"}, "low_resolution": {"width": 320, "height": 320, "url": "https://scontent.cdninstagram.com/t51.2885-15/s320x320/e35/19051539_1695266877449465_5195314972363587584_n.jpg"}, "standard_resolution": {"width": 640, "height": 640, "url": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/19051539_1695266877449465_5195314972363587584_n.jpg"}}, "users_in_photo": [], "type": "image"}, {"images": {"thumbnail": {"width": 150, "height": 150, "url": "https://scontent.cdninstagram.com/t51.2885-15/s150x150/e35/19120235_1935934869953597_1323932353415872512_n.jpg"}, "low_resolution": {"width": 320, "height": 320, "url": "https://scontent.cdninstagram.com/t51.2885-15/s320x320/e35/19120235_1935934869953597_1323932353415872512_n.jpg"}, "standard_resolution": {"width": 640, "height": 640, "url": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/19120235_1935934869953597_1323932353415872512_n.jpg"}}, "users_in_photo": [], "type": "image"}, {"images": {"thumbnail": {"width": 150, "height": 150, "url": "https://scontent.cdninstagram.com/t51.2885-15/s150x150/e35/19050177_1845200395741087_6463237417481535488_n.jpg"}, "low_resolution": {"width": 320, "height": 320, "url": "https://scontent.cdninstagram.com/t51.2885-15/s320x320/e35/19050177_1845200395741087_6463237417481535488_n.jpg"}, "standard_resolution": {"width": 640, "height": 640, "url": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/19050177_1845200395741087_6463237417481535488_n.jpg"}}, "users_in_photo": [], "type": "image"}, {"images": {"thumbnail": {"width": 150, "height": 150, "url": "https://scontent.cdninstagram.com/t51.2885-15/s150x150/e35/19120660_686169311566471_4772788248835522560_n.jpg"}, "low_resolution": {"width": 320, "height": 320, "url": "https://scontent.cdninstagram.com/t51.2885-15/s320x320/e35/19120660_686169311566471_4772788248835522560_n.jpg"}, "standard_resolution": {"width": 640, "height": 640, "url": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/19120660_686169311566471_4772788248835522560_n.jpg"}}, "users_in_photo": [], "type": "image"}]}]}';
-// $json = json_decode($result, true);
+echo "---hello, getting the data" . $b;
+$json = getIgData($token);
 
+echo "---starting to parse the data" . $b;
 $data = $json["data"]; //data array
 $ig_0 = $data[0]; //first obj in data
-
-var_dump($ig_0["created_time"]);
-echo $b;
 
 $ig_ts = (int) $ig_0["created_time"];
 
 echo $b . $ig_ts . $b;
 
 //make sure file and path is correct, this is a test file
-$file = 'item.html';
+$file = 'index.md';
 
 //get first line, know file exists
 $line = fgets(fopen($file, 'r'));
@@ -77,7 +69,6 @@ $line = str_replace("---", "", $line);
 $line = str_replace("<!", "", $line);
 $line = str_replace(">", "", $line);
 $unix_ts = (int) $line;
-var_dump($unix_ts);
 $t_arr = array(
     "yr" => date("Y", $unix_ts),
     "dy" => date("m", $unix_ts),
@@ -85,8 +76,8 @@ $t_arr = array(
 );
 
 //change to not equal
-if ($ig_ts == $unix_ts) {
-    echo "---match" . $b;
+if ($ig_ts != $unix_ts) {
+    echo "---times do not match, starting to write" . $b;
     //name from caption
     $caption = explode(" ", $ig_0["caption"]["text"]);
     $name = $caption[0];
@@ -111,14 +102,10 @@ if ($ig_ts == $unix_ts) {
     $write["title"] = "## " . $name;
     $write["desc"] = "[Adopt at " . $loc . " Humane Society](" . $site . ")";
     $write["image"] = "![Picture of " . $name . "](" . $ig_img . ")";
-
-    var_dump($write);
     $write_str = implode($b, $write);
 
-    var_dump($write_str);
-
     prependStr($write_str, $file);
-    echo "---done" . $b;
+    echo "---done writing" . $b;
 
     //write the code to update git
 

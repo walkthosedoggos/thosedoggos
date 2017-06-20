@@ -8,6 +8,4 @@ $push = "git push https://" . $gh_user . ":" . $gh_pass . "@" . $gh_url . $gh_us
 // exec("git add -u");
 // exec("git commit -m \"commit through command\"");
 // echo $push . "\r\n";
-echo "---done";
-
  ?>

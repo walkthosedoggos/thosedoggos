@@ -1,31 +1,7 @@
-<!--- comment out? --->
-
-# hello doggo world
-let's have a look at this.
-
-## [Doggo0](http://www.google.com)
-![doggo pic alt text](https://scontent.cdninstagram.com/t51.2885-15/s150x150/e35/19051504_429462270760199_5605852071346569216_n.jpg)
-***
-
-## [Doggo1](http://www.google.com)
-09 June 2017
-![Doggo pic alt text](/images/doggo.jpg)
-what a good boy.
-***
-
-## [Doggo2](http://www.google.com)
-09 June 2017
-![Doggo pic alt text](/images/doggo.jpg)
-what a good boy.
-***
-
-## [Doggo3](http://www.google.com)
-09 June 2017
-![Doggo pic alt text](/images/doggo.jpg)
-what a good boy.
-***
-
-## [Doggo4](http://www.google.com)
-09 June 2017
-![Doggo pic alt text](/images/doggo.jpg)
-what a good boy.
+<!--- 1497918690 --->
+## Millie!
+[Adopt at Longmont Humane Society](https://www.longmonthumane.org/?q=animals)
+![Picture of Millie!](https://scontent.cdninstagram.com/t51.2885-15/s150x150/e35/19227421_1351808538249560_4932357893178523648_n.jpg)<!--- 1497399631 --->
+## Bud!
+[Adopt at Longmont Humane Society](http://www.google.com)
+![Picture of Bud!](https://scontent.cdninstagram.com/t51.2885-15/s150x150/e35/19051539_1695266877449465_5195314972363587584_n.jpg)
