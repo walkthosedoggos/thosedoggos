@@ -43,30 +43,6 @@ function prependStr($string, $orig_filename) {
     unlink($orig_filename);
     rename($temp_filename, $orig_filename);
 }
-$a = add();
-$c = commit('test commit and add push');
-// var_dump($a);
-// $br = "\r\n";
-// echo $br;
-// var_dump($a);
-// $s = status();
-$p = push($gh_user, $gh_pass);
-// var_dump($p);
-exit();
-
-$changed = false;
-foreach($c as $res) {
-  preg_match('/(no changes added to commit)/', $res, $match);
-  if (count($match) != 0) {
-      $changed = true;
-  }
-}
-
-//if changed, then push
-if ($changed) {
-
-}
-exit();
 
 //write the curl operations to get the result (sample below)
 $b = "\r\n";
@@ -141,10 +117,23 @@ if ($ig_ts != $unix_ts) {
     prependStr($write_str, $file);
     echo "---done writing" . $b;
 
-    //write the code to update git
 
 }
 
+//write the code to update git
+$a = add();
+$c = commit($ig_ts);
+$changed = false;
+foreach($c as $res) {
+  preg_match('/(no changes added to commit)/', $res, $match);
+  if (count($match) != 0) {
+      $changed = true;
+  }
+}
 
+//if changed, then push
+if ($changed) {
+  $p = push($gh_user, $gh_pass);
+}
 
 exit();
