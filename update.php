@@ -134,8 +134,8 @@ foreach($c as $res) {
 }
 
 //if changed, then push
-if ($changed) {
+//if ($changed) {
   $p = push($gh_user, $gh_pass);
-}
+//}
 
 exit();
