@@ -43,13 +43,14 @@ function prependStr($string, $orig_filename) {
     unlink($orig_filename);
     rename($temp_filename, $orig_filename);
 }
-$a = add();
+// $a = add();
 $c = commit('test ts');
-var_dump($a);
-$br = "\r\n";
-echo $br;
-var_dump($a);
-
+// var_dump($a);
+// $br = "\r\n";
+// echo $br;
+// var_dump($a);
+// $s = status();
+var_dump($c);
 exit();
 
 //write the curl operations to get the result (sample below)

@@ -28,6 +28,16 @@ function commit($ts) {
   }
 }
 
+
+function status () {
+  try {
+    exec("git status", $output);
+    return $output;
+  }
+  catch(Exception $e) {
+    return $e->getMessage();
+  }
+}
 // exec("git add -u");
 // exec("git commit -m \"commit through command\"");
 // echo $push . "\r\n";
