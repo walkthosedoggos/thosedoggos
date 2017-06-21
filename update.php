@@ -124,6 +124,8 @@ if ($ig_ts != $unix_ts) {
 $a = add();
 $c = commit($ig_ts);
 $changed = false;
+
+//not sure this check is sufficent
 foreach($c as $res) {
   preg_match('/(no changes added to commit)/', $res, $match);
   if (count($match) != 0) {
@@ -132,8 +134,8 @@ foreach($c as $res) {
 }
 
 //if changed, then push
-// if ($changed) {
+if ($changed) {
   $p = push($gh_user, $gh_pass);
-// }
+}
 
 exit();
