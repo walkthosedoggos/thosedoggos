@@ -1,10 +1,21 @@
 <?php
 require "config.php";
-$gh_url = "github.com/";
-$repo = "thosedoggos.git";
-$branch = "master";
 
-$push = "git push https://" . $gh_user . ":" . $gh_pass . "@" . $gh_url . $gh_user . "/" . $repo . " " . $branch;
+
+function push($gh_user, $gh_pass) {
+  $gh_url = "github.com/";
+  $repo = "thosedoggos.git";
+  $branch = "master";
+  $push = "git push https://" . $gh_user . ":" . $gh_pass . "@" . $gh_url . $gh_user . "/" . $repo . " " . $branch;
+
+  try {
+    exec($push, $output);
+    return $output;
+  }
+  catch(Exception $e) {
+    return $e->getMessage();
+  }
+}
 
 function add() {
   $add = "git add -u";
