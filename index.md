@@ -40,7 +40,6 @@
 ![Picture of Jennifer!](https://scontent.cdninstagram.com/t51.2885-15/s320x320/e35/18949929_171372130065462_3704723675816132608_n.jpg)
 <!--- 1497107482 --->
 ## Tigre.
-[Adopt at Longmont Humane Society](https://www.longmonthumane.org/?q=animals)
 
 ![Picture of Tigre.](https://scontent.cdninstagram.com/t51.2885-15/s320x320/e35/19052132_1946368955607120_1857270517375959040_n.jpg)
 <!--- 1497055232 --->
