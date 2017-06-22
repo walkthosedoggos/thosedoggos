@@ -58,7 +58,7 @@ $ig_ts = (int) $ig_0["created_time"];
 echo $ig_ts . $b;
 
 //make sure file and path is correct, this is a test file
-$file = 'index.md';
+$file = '/home/user/thosedoggos/index.md';
 
 //get first line, know file exists
 $line = fgets(fopen($file, 'r'));

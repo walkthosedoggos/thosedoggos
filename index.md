@@ -1,3 +1,8 @@
+<!--- 1498090002 --->
+## Zeus!
+[Adopt at Longmont Humane Society](https://www.longmonthumane.org/?q=animals)
+
+![Picture of Zeus!](https://scontent.cdninstagram.com/t51.2885-15/s320x320/e35/19425317_1549945661684933_8488158250930274304_n.jpg)
 <!--- 1498004091 --->
 ## Marley!
 [Adopt at Longmont Humane Society](https://www.longmonthumane.org/?q=animals)
