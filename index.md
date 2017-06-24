@@ -1,8 +1,8 @@
 <!--- 1498258372 --->
-## Doggo!
+## Rudy!
 [Adopt at Longmont Humane Society](https://www.longmonthumane.org/?q=animals)
 
-![Picture of Doggo!](https://scontent.cdninstagram.com/t51.2885-15/s320x320/e35/19367607_1407038259351958_6301553742990802944_n.jpg)
+![Picture of Rudy!](https://scontent.cdninstagram.com/t51.2885-15/s320x320/e35/19367607_1407038259351958_6301553742990802944_n.jpg)
 <!--- 1498176347 --->
 ## Jennifer!
 [Adopt at Longmont Humane Society](https://www.longmonthumane.org/?q=animals)
