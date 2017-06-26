@@ -1,3 +1,8 @@
+<!--- 1498427001 --->
+## Archibald!
+[Adopt at Longmont Humane Society](https://www.longmonthumane.org/?q=animals)
+
+![Picture of Archibald!](https://scontent.cdninstagram.com/t51.2885-15/s320x320/e35/19424665_496062437392929_6451236668971155456_n.jpg)
 <!--- 1498258372 --->
 ## Rudy!
 [Adopt at Longmont Humane Society](https://www.longmonthumane.org/?q=animals)
