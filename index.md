@@ -1,3 +1,8 @@
+<!--- 1498529583 --->
+## Harold!
+[Adopt at Longmont Humane Society](https://www.longmonthumane.org/?q=animals)
+
+![Picture of Harold!](https://scontent.cdninstagram.com/t51.2885-15/s320x320/e35/19425338_448767718826778_3237233717055324160_n.jpg)
 <!--- 1498427001 --->
 ## Archibald!
 [Adopt at Longmont Humane Society](https://www.longmonthumane.org/?q=animals)
