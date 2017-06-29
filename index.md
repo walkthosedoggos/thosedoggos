@@ -1,3 +1,8 @@
+<!--- 1498606247 --->
+## Grace!
+[Adopt at Longmont Humane Society](https://www.longmonthumane.org/?q=animals)
+
+![Picture of Grace!](https://scontent.cdninstagram.com/t51.2885-15/s320x320/e35/19534253_1344453525670770_4382475261791174656_n.jpg)
 <!--- 1498529583 --->
 ## Harold!
 [Adopt at Longmont Humane Society](https://www.longmonthumane.org/?q=animals)
@@ -8,6 +13,11 @@
 [Adopt at Longmont Humane Society](https://www.longmonthumane.org/?q=animals)
 
 ![Picture of Archibald!](https://scontent.cdninstagram.com/t51.2885-15/s320x320/e35/19424665_496062437392929_6451236668971155456_n.jpg)
+<!--- 1498326708 --->
+## Clara Belle!
+[Adopt at Longmont Humane Society](https://www.longmonthumane.org/?q=animals)
+
+![Picture of Clara Belle!](https://scontent.cdninstagram.com/t51.2885-15/s320x320/e35/19367907_1358708854205281_3636169641220374528_n.jpg)
 <!--- 1498258372 --->
 ## Rudy!
 [Adopt at Longmont Humane Society](https://www.longmonthumane.org/?q=animals)
