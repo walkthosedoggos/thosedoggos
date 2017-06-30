@@ -1,3 +1,13 @@
+<!--- 1498779286 --->
+## Rascal!
+[Adopt at Longmont Humane Society](https://www.longmonthumane.org/?q=animals)
+
+![Picture of Rascal!](https://scontent.cdninstagram.com/t51.2885-15/s320x320/e35/19623545_315491195572362_4410070267754184704_n.jpg)
+<!--- 1498606247 --->
+## Grace!
+[Adopt at Longmont Humane Society](https://www.longmonthumane.org/?q=animals)
+
+![Picture of Grace!](https://scontent.cdninstagram.com/t51.2885-15/s320x320/e35/19534253_1344453525670770_4382475261791174656_n.jpg)
 <!--- 1498529583 --->
 ## Harold!
 [Adopt at Longmont Humane Society](https://www.longmonthumane.org/?q=animals)
