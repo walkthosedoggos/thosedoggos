@@ -1,3 +1,8 @@
+<!--- 1498946906 --->
+## Rudy!
+[Adopt at Longmont Humane Society](https://www.longmonthumane.org/?q=animals)
+
+![Picture of Rudy!](https://scontent.cdninstagram.com/t51.2885-15/s320x320/e35/19622910_1738670279484166_1950161125161041920_n.jpg)
 <!--- 1498779286 --->
 ## Rascal!
 [Adopt at Longmont Humane Society](https://www.longmonthumane.org/?q=animals)
