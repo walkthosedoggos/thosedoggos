@@ -1,3 +1,8 @@
+<!--- 1499475239 --->
+## Clara Belle!
+[Adopt at Longmont Humane Society](https://www.longmonthumane.org/?q=animals)
+
+![Picture of Clara Belle!](https://scontent.cdninstagram.com/t51.2885-15/s320x320/e35/19932392_1913950318883009_867607819271012352_n.jpg)
 <!--- 1499303704 --->
 ## Sweet Pea!
 [Adopt at Longmont Humane Society](https://www.longmonthumane.org/?q=animals)
