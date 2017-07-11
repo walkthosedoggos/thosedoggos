@@ -8,11 +8,21 @@
 [Adopt at Longmont Humane Society](https://www.longmonthumane.org/?q=animals)
 
 ![Picture of Clara Belle!](https://scontent.cdninstagram.com/t51.2885-15/s320x320/e35/19932392_1913950318883009_867607819271012352_n.jpg)
+<!--- 1499389312 --->
+## Zeus!
+[Adopt at Longmont Humane Society](https://www.longmonthumane.org/?q=animals)
+
+![Picture of Zeus!](https://scontent.cdninstagram.com/t51.2885-15/s320x320/e35/19761787_135553610360554_7446290684903948288_n.jpg)
 <!--- 1499303704 --->
 ## Sweet Pea!
 [Adopt at Longmont Humane Society](https://www.longmonthumane.org/?q=animals)
 
 ![Picture of Sweet Pea!](https://scontent.cdninstagram.com/t51.2885-15/s320x320/e35/19623162_806487696178228_6875188862079991808_n.jpg)
+<!--- 1499389312 --->
+## Sadie!
+[Adopt at Longmont Humane Society](https://www.longmonthumane.org/?q=animals)
+
+![Picture of Sadie!](https://scontent.cdninstagram.com/t51.2885-15/s320x320/e35/19623415_1441070842646045_950575106982150144_n.jpg)
 <!--- 1499127826 --->
 ## Maggie!
 [Adopt at Longmont Humane Society](https://www.longmonthumane.org/?q=animals)
@@ -160,19 +170,3 @@
 <!--- 1496097339 --->
 ## walkthosedoggos
 ![Picture of walkthosedoggos](https://scontent.cdninstagram.com/t51.2885-15/s320x320/e15/19050509_1338216936268986_3615286986241212416_n.jpg)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
