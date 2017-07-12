@@ -1,3 +1,8 @@
+<!--- 1499815255 --->
+## Hazel!
+[Adopt at Longmont Humane Society](https://www.longmonthumane.org/?q=animals)
+
+![Picture of Hazel!](https://scontent.cdninstagram.com/t51.2885-15/s320x320/e35/19932678_151342502089858_1362906321178853376_n.jpg)
 <!--- 1499728027 --->
 ## Maggie!
 [Adopt at Longmont Humane Society](https://www.longmonthumane.org/?q=animals)
