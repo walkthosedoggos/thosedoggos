@@ -1,3 +1,8 @@
+<!--- 1500078582 --->
+## Zeus!
+[Adopt at Longmont Humane Society](https://www.longmonthumane.org/?q=animals)
+
+![Picture of Zeus!](https://scontent.cdninstagram.com/t51.2885-15/s320x320/e35/19984303_108944013091905_9186914984351760384_n.jpg)
 <!--- 1499905561 --->
 ## Daffodil!
 [Adopt at Longmont Humane Society](https://www.longmonthumane.org/?q=animals)
