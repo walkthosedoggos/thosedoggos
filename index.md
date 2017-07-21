@@ -1,3 +1,8 @@
+<!--- 1500592699 --->
+## Ray Ban!
+[Adopt at Longmont Humane Society](https://www.longmonthumane.org/?q=animals)
+
+![Picture of Ray Ban!](https://scontent.cdninstagram.com/t51.2885-15/s320x320/e35/20180708_430835510636490_8537917581653180416_n.jpg)
 <!--- 1500420970 --->
 ## Archibald!
 [Adopt at Longmont Humane Society](https://www.longmonthumane.org/?q=animals)
