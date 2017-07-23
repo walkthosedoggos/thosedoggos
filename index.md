@@ -1,3 +1,8 @@
+<!--- 0 --->
+## Doggo!
+[Adopt at  Humane Society](https://walkthosedoggos.github.io/thosedoggos/)
+
+![Picture of Doggo!]()
 <!--- 1500592699 --->
 ## Ray Ban!
 [Adopt at Longmont Humane Society](https://www.longmonthumane.org/?q=animals)
