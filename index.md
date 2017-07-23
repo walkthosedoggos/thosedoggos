@@ -1,3 +1,8 @@
+<!--- 1500837097 --->
+## Liberace!
+[Adopt at Longmont Humane Society](https://www.longmonthumane.org/?q=animals)
+
+![Picture of Liberace!](https://scontent.cdninstagram.com/t51.2885-15/s320x320/e35/20225768_1866468230339069_3910569037267992576_n.jpg)
 <!--- 0 --->
 ## Doggo!
 [Adopt at  Humane Society](https://walkthosedoggos.github.io/thosedoggos/)
