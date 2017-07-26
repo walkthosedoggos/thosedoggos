@@ -1,3 +1,8 @@
+<!--- 1501030520 --->
+## Clara Belle!
+[Adopt at Longmont Humane Society](https://www.longmonthumane.org/?q=animals)
+
+![Picture of Clara Belle!](https://scontent.cdninstagram.com/t51.2885-15/s320x320/e35/20347196_2021584601402719_6490340224487391232_n.jpg)
 <!--- 1500837097 --->
 ## Liberace!
 [Adopt at Longmont Humane Society](https://www.longmonthumane.org/?q=animals)
